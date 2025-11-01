@@ -5,6 +5,11 @@ Incluye campos para nombre, apellido, edad, teléfono, correo y cédula, con val
 
 ---
 
+## 📷 Captura del proyecto
+<img width="1313" height="603" alt="image" src="https://github.com/user-attachments/assets/632048ba-17d8-446a-87d8-a7fb011380e8" />
+
+---
+
 ## ✨ Características
 - Formulario responsivo y centrado en la pantalla.  
 - Campos para nombre, apellido, edad, teléfono, correo y cédula.  
@@ -20,3 +25,5 @@ Incluye campos para nombre, apellido, edad, teléfono, correo y cédula, con val
 - **Visual Studio Code** (editor recomendado)
 
 ---
+
+## 📁 Estructura del proyecto
