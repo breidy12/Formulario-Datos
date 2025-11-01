@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+
+    <link rel="stylesheet" href="Estilo-Formulario.css">
+
+</head>
+<body>
+
+    <header>
+        <h2>Datos de Identificación Personal</h2>
+        <p>Ingrese la información solicitada para verificar su identidad y continuar con el proceso.</p>
+    </header>
+    <form>
+
+        <label for="nombre">Nombre:</label><br>
+        <input type="text" name="nombre" id="nombre" required><br><br>
+
+        <label for="apellido">Apellido:</label><br>
+        <input type="text" name="apellido" id="apellido" required><br><br>
+
+        <label for="edad">Edad:</label><br>
+        <input type="number" name="edad" id="edad" required"><br><br>
+
+        <label for="telefono">Telefono:</label><br>
+        <input type="number" name="telefono" id="telefono" required><br><br>
+
+        <label for="correo">Correo:</label><br>
+        <input type="email" name="correo" id="correo" required><br><br>
+
+        <label for="cedula">Cedula:</label><br>
+        <input type="text" name="cedula" id="cedula" pattern="[0-9]{11}" maxlength="11" title="Ingrese solo numeros (11)"><br><br>
+
+        <input type="submit" value="Enviar Datos">
+    </form>
+    
+</body>
+</html>
