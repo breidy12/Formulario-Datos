@@ -25,5 +25,3 @@ Incluye campos para nombre, apellido, edad, teléfono, correo y cédula, con val
 - **Visual Studio Code** (editor recomendado)
 
 ---
-
-## 📁 Estructura del proyecto
